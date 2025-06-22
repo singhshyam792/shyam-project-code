@@ -1,0 +1,8 @@
+start learning helm
+What is Helm
+How Helm work
+Why use Helm
+Why helm matters in k8
+
+
+and i have try to create EKS cluster .
